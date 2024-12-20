@@ -8,7 +8,7 @@ Data: 20/12/2024
 
 ![HawkEye](https://github.com/mjurado-cpd/PEC3_Manovich_Reloaded/blob/main/hawkeye.png).
 
-# Cas 1. Esdeveniments esportius amb realitat augmentada: Hawk Eye.
+# Cas 1. Informe-Assaig sobre els esdeveniments esportius amb realitat augmentada: Hawk Eye.
 
 ## Descripció
 Sabem que els esdeveniments esportius poden moure molts diners depenent de l’esport que sigui, per aquest informe se n’ha triat el tenis que tot i no ser l’esport més popular, podríem dir que està al top 5 dels esports més seguits al món: el tenis i el seu “ojo de halcon” o **“ull de falcó”**, aquesta tecnologia es va instaurar per primer cop l’any **2006 al torneig Open dels EUA** i des d’aleshores s’ha instaurat en aquest esport, podent demanar “challenge” o revisió de la jugada si no s’està d’acord amb una decisió presa, tot i que es podria haver triat el futbol i la tecnologia del fora de joc, aquesta encara porta poc temps entre nosaltres i podem trobar exemples bons i dolents sobre aquesta tecnologia.
