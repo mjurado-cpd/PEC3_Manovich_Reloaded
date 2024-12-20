@@ -1,6 +1,6 @@
 ### Cultura Digital 
 
-# Informe-assaig Sobre els esdeveniments esportius amb realitat augmentada i la sèrie Black Mirror
+# Informe-assaig sobre els esdeveniments esportius amb realitat augmentada i la sèrie Black Mirror
 
 Autor: Miquel Jurado
 
