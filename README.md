@@ -6,7 +6,7 @@ Autor: Miquel Jurado
 
 Data: 20/12/2024 
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![HawkEye](https://github.com/mjurado-cpd/PEC3_Manovich_Reloaded/blob/main/hawkeye.png).
 
 # Cas 1. Esdeveniments esportius amb realitat augmentada: Hawk Eye.
 
